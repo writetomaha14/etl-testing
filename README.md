@@ -1,4 +1,4 @@
-# ETL Testing Code Samples
+# Data Quality Dimensions examples in ETL and Pipeline Testing
 
 This repo contains PySpark code snippets for ETL testing in Databricks notebooks.
 
